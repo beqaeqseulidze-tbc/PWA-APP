@@ -1,0 +1,17 @@
+<div class="cards">
+    @if(products$ |async){
+        @for( product of (products$ |async); track product.id ){
+            <div class="card">
+                <h2  class="card-title">{{product.title}}</h2>                
+                <div class="card-image">
+                    <img [src]="product.image" alt="">;
+                </div>
+                <div class="card-actions">
+                    <button mat-button (click)="onView(product.id)">view</button>
+                    <button mat-button (click)="onEdit(product.id)">edit</button>
+                </div>
+            </div>  
+        }
+    }       
+      
+</div>
