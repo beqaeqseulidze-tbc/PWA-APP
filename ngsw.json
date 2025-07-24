@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1753383084988,
-  "index": "/index.html",
+  "timestamp": 1753383522870,
+  "index": "C:/Program Files/Git/PWA-APP/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-43HPFPGP.js",
-        "/chunk-VM76RUBU.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main-ZKGSGEOB.js",
-        "/manifest.webmanifest",
-        "/polyfills-FFHMD2TL.js",
-        "/styles-3FPTY6PQ.css"
+        "C:/Program Files/Git/PWA-APP/chunk-43HPFPGP.js",
+        "C:/Program Files/Git/PWA-APP/chunk-VM76RUBU.js",
+        "C:/Program Files/Git/PWA-APP/favicon.ico",
+        "C:/Program Files/Git/PWA-APP/index.html",
+        "C:/Program Files/Git/PWA-APP/main-ZKGSGEOB.js",
+        "C:/Program Files/Git/PWA-APP/manifest.webmanifest",
+        "C:/Program Files/Git/PWA-APP/polyfills-FFHMD2TL.js",
+        "C:/Program Files/Git/PWA-APP/styles-3FPTY6PQ.css"
       ],
       "patterns": []
     },
@@ -30,14 +30,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "C:/Program Files/Git/PWA-APP/assets/icons/icon-128x128.png",
+        "C:/Program Files/Git/PWA-APP/assets/icons/icon-144x144.png",
+        "C:/Program Files/Git/PWA-APP/assets/icons/icon-152x152.png",
+        "C:/Program Files/Git/PWA-APP/assets/icons/icon-192x192.png",
+        "C:/Program Files/Git/PWA-APP/assets/icons/icon-384x384.png",
+        "C:/Program Files/Git/PWA-APP/assets/icons/icon-512x512.png",
+        "C:/Program Files/Git/PWA-APP/assets/icons/icon-72x72.png",
+        "C:/Program Files/Git/PWA-APP/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -60,22 +60,22 @@
     }
   ],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/chunk-43HPFPGP.js": "cfde5f41efddf1f69eb1a9806ea9d39b9f9a8dda",
-    "/chunk-VM76RUBU.js": "ea24e70536968a10131d3d81e57bde63debfef1a",
-    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/index.html": "6c4f575f01d6331d5d5e6c750f90c7634c563005",
-    "/main-ZKGSGEOB.js": "5f25aecd791fe42e0f70a88be53a978c4ff631f0",
-    "/manifest.webmanifest": "1cac2819474ab9b7281198e8f6bdd44657dac737",
-    "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/styles-3FPTY6PQ.css": "f1624df9dac0e954de993ab77d6bfb3db5c72086"
+    "C:/Program Files/Git/PWA-APP/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "C:/Program Files/Git/PWA-APP/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "C:/Program Files/Git/PWA-APP/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "C:/Program Files/Git/PWA-APP/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "C:/Program Files/Git/PWA-APP/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "C:/Program Files/Git/PWA-APP/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "C:/Program Files/Git/PWA-APP/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "C:/Program Files/Git/PWA-APP/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "C:/Program Files/Git/PWA-APP/chunk-43HPFPGP.js": "cfde5f41efddf1f69eb1a9806ea9d39b9f9a8dda",
+    "C:/Program Files/Git/PWA-APP/chunk-VM76RUBU.js": "ea24e70536968a10131d3d81e57bde63debfef1a",
+    "C:/Program Files/Git/PWA-APP/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "C:/Program Files/Git/PWA-APP/index.html": "a6759c2da42277463ece95b2774243bfd772bcd4",
+    "C:/Program Files/Git/PWA-APP/main-ZKGSGEOB.js": "5f25aecd791fe42e0f70a88be53a978c4ff631f0",
+    "C:/Program Files/Git/PWA-APP/manifest.webmanifest": "1cac2819474ab9b7281198e8f6bdd44657dac737",
+    "C:/Program Files/Git/PWA-APP/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "C:/Program Files/Git/PWA-APP/styles-3FPTY6PQ.css": "f1624df9dac0e954de993ab77d6bfb3db5c72086"
   },
   "navigationUrls": [
     {
