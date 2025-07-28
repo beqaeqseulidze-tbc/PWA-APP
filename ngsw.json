@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1753694959574,
+  "timestamp": 1753696472402,
   "index": "/PWA-APP/index.html",
   "assetGroups": [
     {
@@ -71,7 +71,7 @@
     "/PWA-APP/chunk-43HPFPGP.js": "cfde5f41efddf1f69eb1a9806ea9d39b9f9a8dda",
     "/PWA-APP/chunk-VM76RUBU.js": "ea24e70536968a10131d3d81e57bde63debfef1a",
     "/PWA-APP/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/PWA-APP/index.html": "66faaa7016dcd4521ca127f6f6a5cb402ab742af",
+    "/PWA-APP/index.html": "cec5148231c5546b8b92380d2211344741193f1f",
     "/PWA-APP/main-6NGTP4VK.js": "92e8167b051fccf468edf555e48bda26508d13da",
     "/PWA-APP/manifest.webmanifest": "1cac2819474ab9b7281198e8f6bdd44657dac737",
     "/PWA-APP/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
