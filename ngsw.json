@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1753783168956,
+  "timestamp": 1754314921856,
   "index": "/PWA-APP/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/PWA-APP/chunk-VM76RUBU.js",
         "/PWA-APP/favicon.ico",
         "/PWA-APP/index.html",
-        "/PWA-APP/main-HHOU4PNG.js",
+        "/PWA-APP/main-RVIWHLS2.js",
         "/PWA-APP/manifest.webmanifest",
         "/PWA-APP/polyfills-FFHMD2TL.js",
         "/PWA-APP/styles-3FPTY6PQ.css"
@@ -71,8 +71,8 @@
     "/PWA-APP/chunk-43HPFPGP.js": "cfde5f41efddf1f69eb1a9806ea9d39b9f9a8dda",
     "/PWA-APP/chunk-VM76RUBU.js": "ea24e70536968a10131d3d81e57bde63debfef1a",
     "/PWA-APP/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/PWA-APP/index.html": "3416b573cd453cc234fa62543b963156ba062ce0",
-    "/PWA-APP/main-HHOU4PNG.js": "ee71ae20e0bcc3c177b0c429f6a9e82409dc230c",
+    "/PWA-APP/index.html": "420351bf8343396142671def5cad649d6f2a1c68",
+    "/PWA-APP/main-RVIWHLS2.js": "eee83f0dc2959a043566b6a5f33b5651892ac40a",
     "/PWA-APP/manifest.webmanifest": "1cac2819474ab9b7281198e8f6bdd44657dac737",
     "/PWA-APP/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/PWA-APP/styles-3FPTY6PQ.css": "f1624df9dac0e954de993ab77d6bfb3db5c72086"
