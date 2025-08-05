@@ -3,7 +3,7 @@
 importScripts('./ngsw-worker.js');
 
 // ვუსმენთ notification-ის მოვლენებს რათა დავჰენდლოთ ნოტიფიკაციაზე იუზერის ქლიქი
-self.addEventListener('notificationclick', (event) => {
+window.addEventListener('notificationclick', (event) => {
 
   const notificationData = event.notification.data;
 
