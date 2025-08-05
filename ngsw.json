@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1754392526854,
+  "timestamp": 1754392865929,
   "index": "/PWA-APP/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "/PWA-APP/custom-sw.js",
         "/PWA-APP/favicon.ico",
         "/PWA-APP/index.html",
-        "/PWA-APP/main-WKF6HWNX.js",
+        "/PWA-APP/main-HWDF6KGB.js",
         "/PWA-APP/manifest.webmanifest",
         "/PWA-APP/polyfills-FFHMD2TL.js",
         "/PWA-APP/styles-3FPTY6PQ.css"
@@ -73,8 +73,8 @@
     "/PWA-APP/chunk-VM76RUBU.js": "ea24e70536968a10131d3d81e57bde63debfef1a",
     "/PWA-APP/custom-sw.js": "ea527b85386c3d677979498951b12bd6ca496b11",
     "/PWA-APP/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/PWA-APP/index.html": "b8a5296ce254127ac32607d46973605530fa8450",
-    "/PWA-APP/main-WKF6HWNX.js": "78be27c734c795f91655731a2fb61c8ecca6c5ba",
+    "/PWA-APP/index.html": "a28f84856a52d11d9cb464a10feaf8b2b92c2bf3",
+    "/PWA-APP/main-HWDF6KGB.js": "10f4709e14e7027b8719a9f410dd205e27110b4b",
     "/PWA-APP/manifest.webmanifest": "1cac2819474ab9b7281198e8f6bdd44657dac737",
     "/PWA-APP/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/PWA-APP/styles-3FPTY6PQ.css": "f1624df9dac0e954de993ab77d6bfb3db5c72086"
